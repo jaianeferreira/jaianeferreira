@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiane-ferreira-425311145/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreirajaiane_/)
 
-### Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo: 
 
 <div style="display: inline_block"><br/>
     <img align = "center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
