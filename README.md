@@ -2,9 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiane-ferreira-425311145/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreirajaiane_/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaianeferr3)
-
-![Jaiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaianeferreira&show_icons=true&theme=dracula)
 
 ### Tecnologias que estou aprendendo
 
